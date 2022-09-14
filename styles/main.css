@@ -101,7 +101,8 @@ button {
 button:hover {
     background-color: rgb(117,41,90);
 }
-footer {
+footer .copyright {
     text-align: center;
+    margin: 0 300px;
 }
 /* End of styles */
